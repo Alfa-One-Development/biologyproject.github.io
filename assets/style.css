@@ -9,16 +9,35 @@ header {
     width: 98%;
     padding: 1%;
     display: flex;
-    flex-wrap: row wrap;
+    align-items: center;
+    flex-direction: column;
 
     h1 {
         font-size: 3vw;
         color: green;
-        width: 100%;
     }
 
-    a {
-        font-size: 1vw;
-        color: green;
+    section {
+    width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-items: center;
+        flex-direction: row;
+
+        a {
+            font-size: 1vw;
+            color: green;
+            width: 10%;
+            text-decoration: none;
+        }
+          
+          a:visited {
+            background-color: lightgreen;
+          }
+          
+          a:hover {
+            background-color: lightgreen;
+          }
     }
 }
