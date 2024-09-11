@@ -18,22 +18,23 @@ header {
     }
 
     section {
-    width: 100%;
+    width: 75%;
         display: flex;
         justify-content: center;
         align-items: center;
         justify-items: center;
+        justify-content: space-evenly;
         flex-direction: row;
 
         a {
             font-size: 1vw;
             color: green;
-            width: 10%;
+            width: 7.5%;
             text-decoration: none;
         }
           
           a:visited {
-            background-color: lightgreen;
+            color: darkgreen;
           }
           
           a:hover {
