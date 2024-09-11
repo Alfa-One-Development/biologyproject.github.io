@@ -51,20 +51,20 @@ main {
     display: flex;
     flex-wrap: row wrap;
     justify-content: space-around;
-}
+  }
 
-img {
-  width: 45%;
-  border-radius: 5vw;
-  padding: 2.5%;
-}
+  img {
+    width: 45%;
+    border-radius: 5vw;
+    padding: 2.5%;
+  }
 
-p {
-  padding: 2.5%;
-  font-size: 1.5vw;
-  color: green;
-  text-align: justify;
-}
+  p {
+    padding: 2.5%;
+    font-size: 1.5vw;
+    color: green;
+    text-align: justify;
+  }
 }
 
 footer {
