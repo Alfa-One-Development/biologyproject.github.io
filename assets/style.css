@@ -77,6 +77,12 @@ main {
   
   audio{
     padding: 2.5%;
+    width: 45%;
+  }
+
+  video{
+    padding: 2.5%;
+    width: 40%;
   }
 }
 
@@ -154,6 +160,11 @@ footer {
     audio{
       padding: 2.5%;
       width: 45% ;
+    }
+
+    video{
+      padding: 2.5%;
+      width: 80% ;
     }
   }
   
