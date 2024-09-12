@@ -37,9 +37,8 @@ header {
     a {
       font-size: 1vw;
       color: green;
-      width: auto;
+      width: 7.5%;
       text-decoration: none;
-      padding: 1%;
     }
 
     a:visited {
@@ -128,6 +127,7 @@ footer {
       width: 100%;
       a {
         font-size: 4vw;
+        width: auto;
       }
     }
   }
